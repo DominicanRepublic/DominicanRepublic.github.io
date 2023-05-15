@@ -1,0 +1,27 @@
+aside {
+    background-color: #F9F9F9;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.credits {
+    font-size: 14px;
+    text-align: center;
+}
+
+.credits p {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.credits ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.credits li {
+    margin-bottom: 3px;
+}
